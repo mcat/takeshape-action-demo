@@ -1,0 +1,2 @@
+- name: Deploy to TakeShape
+  uses: takeshape/deploy-to-takeshape@v1.2
